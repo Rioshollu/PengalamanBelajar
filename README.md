@@ -7,7 +7,7 @@ Belajar kelas Memulai Dasar Pemprograman untuk Menjadi Pengembang Software. (Pro
   * Belajar tentang memahami kebutuhan Aplikasi.
   * Belajar mengenai apa itu User Requirement Specification (URS) & proses pembuatan spesifikasi teknis aplikasi pandangan dari beberapa stakeholder.
   
-** 3 Agustus 2021**  
+**3 Agustus 2021**  
 Belajar kelas Memulai Dasar Pemprograman untuk Menjadi Pengembang Software. (Progres 50%)
 
   * Belajar Perancangan Modifikasi Aplikasi & Konsep Dasar Pemprograman.
